@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .bg-primary-color {
     background-color: #fff;
   }
@@ -263,7 +263,7 @@ margin-bottom: 1em;
     #links-container {
       padding-left: 2em;
     }
-=======
+  }
 .bg-primary-color {
     background-color: #fff;
   }
@@ -528,5 +528,17 @@ margin-bottom: 1em;
     #links-container {
       padding-left: 2em;
     }
->>>>>>> 54accf493a4d6e376139e8d9606ef2539ffaa8e0
+
+  }
+  .img-fluide{
+    max-width: 107%;
+  }
+  .img-fluidi{
+    max-width: 92%;
+    margin-left: 15px;
+  }
+
+  .titi{
+    margin-top: 15px;
+    margin-left: 15px;
   }
